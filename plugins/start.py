@@ -87,7 +87,7 @@ async def start_command(client: Client, message: Message):
         ],
         [
             InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url="https://t.me/Yakuza_anipedia"),
-            InlineKeyboardButton("chat group", url="https://t.me/Yakuza_chats_c")
+            InlineKeyboardButton("chat group", url="https://t.me/Anime_chat_yakuza")
         ],
         [
             InlineKeyboardButton("💥ᴄʟᴏꜱᴇ💥", callback_data="close")
