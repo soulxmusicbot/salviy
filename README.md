@@ -6,8 +6,8 @@
 
 ##
 
-**Credit - [@about_tosuu](https://telegram.me/about_tosuu)**
-**[@nothing_bots_support](https://telegram.me/nothing_bots_support)**
+**Credit - [ToSu❤‍🩹](https://telegram.me/about_tosuu)**
+**[Nothing_bots_support](https://telegram.me/nothing_bots_support)**
 
 
 
