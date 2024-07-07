@@ -1,18 +1,18 @@
-# Mayhem-file-sharing-Modified
+# Nothing-file-sharing-Modified
 
-![image](https://telegra.ph//file/de8c02dddd74c038894f2.jpg)
+![image](https://telegra.ph/file/2829138cd6da27fcae483.jpg)
 
 <b>A Telegram Special File Sharing Bot Who Made A Link Of File And You Can Access File Through Link.</b>
 
 ##
 
-**Credit - [@CodeXbotz](https://t.me/CodeXBotz)**
-**[@Mayhem_Bots](https://t.me/Mayhem_Bots)**
+**Credit - [@about_tosuu](https://telegram.me/about_tosuu)**
+**[@nothing_bots_support](https://telegram.me/nothing_bots_support)**
 
 
 
 ### Features
-- Multi Force Sub Modified Of CodeXBotz Created By - **[@Its_Abdullaah](https://t.me/Its_Abdullaah)**
+- Multi Force Sub Modified Of Created By - **[@Its_damiann](https://telegram.me/its_damiann)**
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
