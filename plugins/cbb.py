@@ -23,7 +23,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         )
     elif data == "about":
         await query.message.edit_text(
-            text = f"<b>Owner - <a href=https://t.me/Anime_enigmatics>Anime_engimatics™</a>\nMy Channel - <a href=https://t.me/Anime_enigmatics>Anime enigmatics</a>\nSupport Group - <a href=https://t.me/Anime_enigmatic>Anime enigmatic</a>\n\n👨‍💻 Developed by <a href=https://t.me/Anime_enigmatic>Anime_enigmatic™</a></b>",
+            text = f"<b>Owner - <a href=https://t.me/Anime_enigmatic>Anime_engimatic™</a>\nMy Channel - <a href=https://t.me/Anime_enigmatic>Anime enigmatic</a>\nSupport Group - <a href=https://t.me/Anime_enigmatic>Anime enigmatic</a>\n\n👨‍💻 Developed by <a href=https://t.me/Anime_enigmatic>Anime_enigmatic™</a></b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
