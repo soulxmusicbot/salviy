@@ -22,7 +22,7 @@ API_HASH = os.environ.get("API_HASH", "afab08a473c8ae7312d91f97d1208b5c")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002420032418"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "7013604559"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7580618380"))
 
 #Port
 PORT = os.environ.get("PORT", "7000")
@@ -40,8 +40,8 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "<b> Kᴏɴɴɪᴄʜɪᴡᴀ {first} 👋 </b>\n\nI ᴀᴍ ᴀ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @AniXtream")
 try:
-    ADMINS=[7013604559]
-    for x in (os.environ.get("ADMINS", "7013604559").split()):
+    ADMINS=[7013604559, 7580618380, 6149361523]
+    for x in (os.environ.get("ADMINS", "7013604559", "6149361523", "7580618380").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
