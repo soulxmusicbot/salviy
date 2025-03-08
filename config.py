@@ -35,7 +35,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "botmaker9675208")
 FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1001497637176"))
 FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002330606324"))
 
-TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
+TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "3"))
 
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "<b> Kᴏɴɴɪᴄʜɪᴡᴀ {first} 👋 </b>\n\nI ᴀᴍ ᴀ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ @AniXtream")
